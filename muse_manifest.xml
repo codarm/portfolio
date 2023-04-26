@@ -1,0 +1,1784 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gneeraj.me" resolutions="1x" timestamp="1682536879193">
+  <folder name="css">
+    <file name="site_global.css" crc="222453655"/>
+    <file name="master_master.css" crc="4191108935" ref="rep_agri:mr_parking:rel_agri:peo_curb:mr_dig_twin:map_matching:tuvis:curb_rl:vrct:index:abb:rl_urban:bike_rl:tl_urban:fed_learning:pal-food:env_policy:about:ensemble_alpr:ovulation:armibl:metric_alpr:bas:search_alpr:magnetalk:work:redaction:mitti_data"/>
+    <file name="nomq_preview_master_master.css" crc="4288611938" ref="rep_agri:mr_parking:rel_agri:peo_curb:mr_dig_twin:map_matching:tuvis:curb_rl:vrct:index:abb:rl_urban:bike_rl:tl_urban:fed_learning:pal-food:env_policy:about:ensemble_alpr:ovulation:armibl:metric_alpr:bas:search_alpr:magnetalk:work:redaction:mitti_data"/>
+    <file name="rep_agri.css" crc="35621852" ref="rep_agri"/>
+    <file name="nomq_rep_agri.css" crc="447654235" ref="rep_agri"/>
+    <file name="mr_parking.css" crc="281144278" ref="mr_parking"/>
+    <file name="nomq_mr_parking.css" crc="506134975" ref="mr_parking"/>
+    <file name="rel_agri.css" crc="255320389" ref="rel_agri"/>
+    <file name="nomq_rel_agri.css" crc="223358165" ref="rel_agri"/>
+    <file name="peo_curb.css" crc="246698634" ref="peo_curb"/>
+    <file name="nomq_peo_curb.css" crc="4096197817" ref="peo_curb"/>
+    <file name="mr_dig_twin.css" crc="12328224" ref="mr_dig_twin"/>
+    <file name="nomq_mr_dig_twin.css" crc="4157792123" ref="mr_dig_twin"/>
+    <file name="map_matching.css" crc="274702976" ref="map_matching"/>
+    <file name="nomq_map_matching.css" crc="4140251517" ref="map_matching"/>
+    <file name="tuvis.css" crc="162687146" ref="tuvis"/>
+    <file name="nomq_tuvis.css" crc="455356405" ref="tuvis"/>
+    <file name="curb_rl.css" crc="4144354124" ref="curb_rl"/>
+    <file name="nomq_curb_rl.css" crc="4069960642" ref="curb_rl"/>
+    <file name="vrct.css" crc="430909580" ref="vrct"/>
+    <file name="nomq_vrct.css" crc="3870458606" ref="vrct"/>
+    <file name="index.css" crc="3919155340" ref="index"/>
+    <file name="nomq_index.css" crc="500079579" ref="index"/>
+    <file name="abb.css" crc="4182695505" ref="abb"/>
+    <file name="nomq_abb.css" crc="4144189553" ref="abb"/>
+    <file name="rl_urban.css" crc="399691593" ref="rl_urban"/>
+    <file name="nomq_rl_urban.css" crc="346384938" ref="rl_urban"/>
+    <file name="bike_rl.css" crc="454299112" ref="bike_rl"/>
+    <file name="nomq_bike_rl.css" crc="4268878933" ref="bike_rl"/>
+    <file name="tl_urban.css" crc="363558299" ref="tl_urban"/>
+    <file name="nomq_tl_urban.css" crc="4226582969" ref="tl_urban"/>
+    <file name="fed_learning.css" crc="4051041798" ref="fed_learning"/>
+    <file name="nomq_fed_learning.css" crc="3880197754" ref="fed_learning"/>
+    <file name="pal-food.css" crc="33643064" ref="pal-food"/>
+    <file name="nomq_pal-food.css" crc="4142577101" ref="pal-food"/>
+    <file name="env_policy.css" crc="4095889464" ref="env_policy"/>
+    <file name="nomq_env_policy.css" crc="4130650206" ref="env_policy"/>
+    <file name="about.css" crc="3976876269" ref="about"/>
+    <file name="nomq_about.css" crc="237003365" ref="about"/>
+    <file name="ensemble_alpr.css" crc="214759298" ref="ensemble_alpr"/>
+    <file name="nomq_ensemble_alpr.css" crc="3969393186" ref="ensemble_alpr"/>
+    <file name="ovulation.css" crc="222450969" ref="ovulation"/>
+    <file name="nomq_ovulation.css" crc="131315727" ref="ovulation"/>
+    <file name="armibl.css" crc="4073843836" ref="armibl"/>
+    <file name="nomq_armibl.css" crc="4031882259" ref="armibl"/>
+    <file name="metric_alpr.css" crc="11532595" ref="metric_alpr"/>
+    <file name="nomq_metric_alpr.css" crc="3866721670" ref="metric_alpr"/>
+    <file name="bas.css" crc="121673151" ref="bas"/>
+    <file name="nomq_bas.css" crc="69308021" ref="bas"/>
+    <file name="search_alpr.css" crc="50518467" ref="search_alpr"/>
+    <file name="nomq_search_alpr.css" crc="342283007" ref="search_alpr"/>
+    <file name="magnetalk.css" crc="3939341614" ref="magnetalk"/>
+    <file name="nomq_magnetalk.css" crc="4290184284" ref="magnetalk"/>
+    <file name="work.css" crc="493817569" ref="work"/>
+    <file name="nomq_work.css" crc="4166745232" ref="work"/>
+    <file name="redaction.css" crc="98572179" ref="redaction"/>
+    <file name="nomq_redaction.css" crc="286630029" ref="redaction"/>
+    <file name="mitti_data.css" crc="3879524325" ref="mitti_data"/>
+    <file name="nomq_mitti_data.css" crc="4044516143" ref="mitti_data"/>
+  </folder>
+  <folder name="assets">
+    <file name="-9-downloadable_pdf.pdf" crc="4135752969" seo="true" mt="1514722032000"/>
+    <file name="favicon.ico" crc="114461439" seo="true" mt="1546187231000"/>
+    <file name="pal-poster-2018-mina-white_3.png.1400x1400.png" crc="231564055" seo="true" mt="1546545121000"/>
+    <file name="capture.png" crc="244062099" seo="true" mt="1546591933000"/>
+    <file name="17_b.jpg" crc="73084397" seo="true" mt="1546586158000"/>
+    <file name="vlcsnap-2019-01-04-12h38m29s401.png" crc="4124096929" seo="true" mt="1546585709000"/>
+    <file name="vlcsnap-2019-01-04-02h57m12s671.png" crc="347480426" seo="true" mt="1546550832000"/>
+    <file name="design1.mp3" crc="4105705504" seo="true" mt="1547179378000"/>
+    <file name="design2.mp3" crc="176102251" seo="true" mt="1547179430000"/>
+    <file name="img.jpg" crc="17181208" seo="true" mt="1546546468000"/>
+    <file name="neeraj_gudipati_cv.pdf" crc="4148997763" seo="true" mt="1543708943000"/>
+    <file name="parking_tickets_map_header.jpeg" crc="28912544" seo="true" mt="1640819660000"/>
+    <file name="mr_icons-2-.png" crc="357641796" seo="true" mt="1640207250000"/>
+    <file name="curblr_map.png" crc="3973399664" seo="true" mt="1641214986000"/>
+    <file name="traffic_parking_cluster.png" crc="315695532" seo="true" mt="1640846074000"/>
+    <file name="graph.png" crc="4288023430" seo="true" mt="1640848286000"/>
+    <file name="tl_grp.png" crc="4148991168" seo="true" mt="1641237374000"/>
+    <file name="full.png" crc="458290757" seo="true" mt="1640907800000"/>
+    <file name="fed_header.png" crc="192453886" seo="true" mt="1641248763000"/>
+    <file name="env_justice.jpeg" crc="4005161236" seo="true" mt="1641249380000"/>
+    <file name="ensemble.png" crc="98761243" seo="true" mt="1641282745000"/>
+    <file name="met.png" crc="292734606" seo="true" mt="1641294730000"/>
+    <file name="ontolgies.png" crc="4144096231" seo="true" mt="1641298236000"/>
+    <file name="farmer.png" crc="104513063" seo="true" mt="1640908722000"/>
+    <file name="cluster_geo_spatial.png" crc="489896841" seo="true" mt="1640909776000"/>
+    <file name="rl.png" crc="204624588" seo="true" mt="1641311762000"/>
+    <file name="covid.png" crc="4260915351" seo="true" mt="1641313510000"/>
+    <file name="filos.png" crc="83474733" seo="true" mt="1641313991000"/>
+    <file name="tuvis.png" crc="4266116537" seo="true" mt="1641316775000"/>
+    <file name="neeraj_gudipati_cv2.pdf" crc="4269315517" seo="true" mt="1641492856000"/>
+    <file name="viz_urban_rep.jpg" crc="4282775188" seo="true" mt="1643221852000"/>
+    <file name="privacy_redaction.jpg" crc="218327224" seo="true" mt="1643221924000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:tablet>work:tablet>pal-food:tablet>ovulation:tablet>bas:tablet>magnetalk:tablet>vrct:tablet>chirpss:tablet>physia:tablet>abb:tablet>tcsjaw:tablet>fpga:tablet>armibl:tablet>athack:tablet>textile:tablet>sl:tablet>new_work:tablet>about:index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="museutils.js" crc="340535759" ref="tablet>index:tablet>work:tablet>pal-food:tablet>ovulation:tablet>bas:tablet>magnetalk:tablet>vrct:tablet>chirpss:tablet>physia:tablet>abb:tablet>tcsjaw:tablet>fpga:tablet>armibl:tablet>athack:tablet>textile:tablet>sl:tablet>new_work:tablet>about:index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>work:tablet>pal-food:tablet>ovulation:tablet>bas:tablet>magnetalk:tablet>vrct:tablet>chirpss:tablet>physia:tablet>abb:tablet>tcsjaw:tablet>fpga:tablet>armibl:tablet>athack:tablet>textile:tablet>sl:tablet>new_work:tablet>about:index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="museconfig.js" crc="4286661555" ref="tablet>index:tablet>work:tablet>pal-food:tablet>ovulation:tablet>bas:tablet>magnetalk:tablet>vrct:tablet>chirpss:tablet>physia:tablet>abb:tablet>tcsjaw:tablet>fpga:tablet>armibl:tablet>athack:tablet>textile:tablet>sl:tablet>new_work:tablet>about:index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="jquery.watch.js" crc="51536988" ref="tablet>index:tablet>work:tablet>pal-food:tablet>ovulation:tablet>bas:tablet>magnetalk:tablet>vrct:tablet>chirpss:tablet>physia:tablet>abb:tablet>tcsjaw:tablet>fpga:tablet>armibl:tablet>athack:tablet>textile:tablet>sl:tablet>new_work:tablet>about:index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="require.js" crc="7928878" ref="tablet>index:tablet>work:tablet>pal-food:tablet>ovulation:tablet>bas:tablet>magnetalk:tablet>vrct:tablet>chirpss:tablet>physia:tablet>abb:tablet>tcsjaw:tablet>fpga:tablet>armibl:tablet>athack:tablet>textile:tablet>sl:tablet>new_work:tablet>about:index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about"/>
+    <file name="webpro.js" crc="4059564322" ref="index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="396528024" ref="tablet>index"/>
+    <file name="ng_logo.svg" crc="101104865" seo="true" ref="index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis">
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="curb_rl" alt=""/>
+      <caption webpage="curb_rl" alt=""/>
+      <caption webpage="curb_rl" alt=""/>
+      <caption webpage="curb_rl" alt=""/>
+      <caption webpage="curb_rl" alt=""/>
+      <caption webpage="curb_rl" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="rel_agri" alt=""/>
+      <caption webpage="rel_agri" alt=""/>
+      <caption webpage="rel_agri" alt=""/>
+      <caption webpage="rel_agri" alt=""/>
+      <caption webpage="rel_agri" alt=""/>
+      <caption webpage="rel_agri" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="armibl" alt=""/>
+      <caption webpage="armibl" alt=""/>
+      <caption webpage="armibl" alt=""/>
+      <caption webpage="armibl" alt=""/>
+      <caption webpage="armibl" alt=""/>
+      <caption webpage="armibl" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="fed_learning" alt=""/>
+      <caption webpage="fed_learning" alt=""/>
+      <caption webpage="fed_learning" alt=""/>
+      <caption webpage="fed_learning" alt=""/>
+      <caption webpage="fed_learning" alt=""/>
+      <caption webpage="fed_learning" alt=""/>
+      <caption webpage="tl_urban" alt=""/>
+      <caption webpage="tl_urban" alt=""/>
+      <caption webpage="tl_urban" alt=""/>
+      <caption webpage="tl_urban" alt=""/>
+      <caption webpage="tl_urban" alt=""/>
+      <caption webpage="tl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="rep_agri" alt=""/>
+      <caption webpage="rep_agri" alt=""/>
+      <caption webpage="rep_agri" alt=""/>
+      <caption webpage="rep_agri" alt=""/>
+      <caption webpage="rep_agri" alt=""/>
+      <caption webpage="rep_agri" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="ng_logo_poster_.png" crc="240372598" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:work:pal-food:about:ovulation:bas:magnetalk:vrct:abb:armibl:peo_curb:mr_parking:mr_dig_twin:curb_rl:map_matching:rl_urban:tl_urban:bike_rl:fed_learning:env_policy:ensemble_alpr:metric_alpr:search_alpr:redaction:mitti_data:rep_agri:rel_agri:tuvis"/>
+    <file name="ng_w.jpg" crc="3935201059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ng_w-u724-fr.jpg" crc="209965966" ref="index"/>
+    <file name="ng_w-u724-fr2.jpg" crc="4053270495" ref="index"/>
+    <file name="ng_w-u724-fr3.jpg" crc="3906030934" ref="index"/>
+    <file name="pal.jpg" crc="3826972831" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="mb_mitmedialab_03.jpg" crc="3800943532" seo="true" ref="pal-food:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="600_464662234.png" crc="4287645246" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="food.jpg" crc="304836788" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="1_3laxv0t43t9kff0q4ejxna.gif" crc="522258067" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="exfoliate.jpg" crc="3855726108" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="fab.jpg" crc="207569900" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="pcbfl.jpg" crc="3993552462" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="flpcb.jpg" crc="536314256" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="46727337_319086478705727_5638817736344731648_n.jpg" crc="379258243" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="im.jpg" crc="4187172945" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="d5x1mm-rareearthmagnet-mini.jpg" crc="3895755259" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="magnetometer.jpg" crc="496731142" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="pal337x227.jpg" crc="229714079" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="exfoliate277x178.jpg" crc="3860661690" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="pal278x188.jpg" crc="324130326" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="pal290x196.jpg" crc="448974057" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="exfoliate275x177.jpg" crc="3916610104" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="magnetometer316x333.jpg" crc="353621401" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="pal288x194.jpg" crc="4257051477" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="exfoliate285x183.jpg" crc="438486551" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="magnetometer294x310.jpg" crc="4116910129" seo="true" ref="pal-food">
+      <caption webpage="pal-food" alt=""/>
+    </file>
+    <file name="lrm_export_1739553713397_20181230_181059689.jpg" crc="3930836260" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="ng_research.jpg" crc="3881135312" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="mitti.jpg" crc="196937386" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="all_india_institute_of_medical_sciences,_delhisvg.png" crc="351282723" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pngfindcom-tm-logo-png-1482331.png" crc="3923565704" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="tata-center-logo-1.png" crc="3895429551" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="dl.jpg" crc="511574394" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="abb-logosvg.png" crc="4100433911" seo="true" ref="about:abb">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="hms-logo.png" crc="4124218884" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="0.png" crc="4011330029" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="iit_guwahati_logo.svg" crc="3912616224" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="iit_guwahati_logo_poster_.png" crc="3923060488" ref="about"/>
+    <file name="brigham_and_womens_hospital_logosvg.png" crc="3996960883" seo="true" ref="about:ovulation:bas">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="images.png" crc="173909998" seo="true" ref="about:vrct">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="policy hackathon.png" crc="310647354" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="hh_logo.png" crc="103964896" seo="true" ref="about:magnetalk">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="harvard_shield62x89.png" crc="4029002290" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="dst-logo.png" crc="384975903" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="iit_kharagpur_logosvg.png" crc="18818124" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="r5znadp0_400x400.jpg" crc="4023063308" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="square_logo_web_400x400.jpg" crc="199060468" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="socratus.jpg" crc="3856455204" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="lrm_export_1739553713397_20181230_181059689-u2323-fr.jpg" crc="80679617" ref="about"/>
+    <file name="lrm_export_1739553713397_20181230_181059689-u2323-fr2.jpg" crc="233723276" ref="about"/>
+    <file name="ng_research431x252.jpg" crc="321403170" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="harvard_shield45x65.png" crc="3928714249" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="lrm_export_1739553713397_20181230_181059689-u2323-fr3.jpg" crc="522047072" ref="about"/>
+    <file name="abb-logosvg-crop-u6252.png" crc="249751903" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brigham_and_womens_hospital_logosvg-crop-u6338.png" crc="110353251" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="harvard_shield47x67.png" crc="4229195507" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="lrm_export_1739553713397_20181230_181059689-u2323-fr4.jpg" crc="4120172717" ref="about"/>
+    <file name="abb-logosvg-crop-u62522.png" crc="173894536" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brigham_and_womens_hospital_logosvg-crop-u63382.png" crc="442221912" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="49597579_10155653387910216_2537562988823445504_n.jpg" crc="3950446292" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="1200px-harvard_medical_school_shieldsvg.png" crc="120342729" seo="true" ref="ovulation:bas">
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="dev.jpg" crc="379210542" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="exploded.jpg" crc="3982503381" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="alg.jpg" crc="4120984140" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="49597579_10155653387910216_2537562988823445504_n251x319.jpg" crc="3843001860" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="49597579_10155653387910216_2537562988823445504_n-crop-u27213.jpg" crc="4245806154" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="49597579_10155653387910216_2537562988823445504_n-crop-u272132.jpg" crc="299967388" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="dev437x178.jpg" crc="119483973" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="alg449x228.jpg" crc="212504080" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="49597579_10155653387910216_2537562988823445504_n-crop-u272133.jpg" crc="13626372" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="dev371x152.jpg" crc="24645732" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="49597579_10155653387910216_2537562988823445504_n-crop-u272134.jpg" crc="293850178" seo="true" ref="ovulation">
+      <caption webpage="ovulation" alt=""/>
+    </file>
+    <file name="img_20180823_150216-crop-u27614.jpg" crc="414287788" seo="true" ref="bas">
+      <caption webpage="bas" alt=""/>
+    </file>
+    <file name="1.jpg" crc="333604016" seo="true" ref="bas">
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+      <caption webpage="bas" alt=""/>
+    </file>
+    <file name="img_20180823_150216-crop-u276142.jpg" crc="4184118216" seo="true" ref="bas">
+      <caption webpage="bas" alt=""/>
+    </file>
+    <file name="img_20180823_150216-crop-u276143.jpg" crc="3889895095" seo="true" ref="bas">
+      <caption webpage="bas" alt=""/>
+    </file>
+    <file name="img_20180823_150216-crop-u276144.jpg" crc="4032247475" seo="true" ref="bas">
+      <caption webpage="bas" alt=""/>
+    </file>
+    <file name="img_20180823_150216-crop-u276145.jpg" crc="409681125" seo="true" ref="bas">
+      <caption webpage="bas" alt=""/>
+    </file>
+    <file name="img_20180823_150216-crop-u276146.jpg" crc="501724244" seo="true" ref="bas">
+      <caption webpage="bas" alt=""/>
+    </file>
+    <file name="capture-crop-u27938.jpg" crc="481193392" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="harvard_shield.png" crc="4130832182" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4251303864" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="graph.jpg" crc="4146895412" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="img_20181101_022853.jpg" crc="117989660" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="capture-crop-u279382.jpg" crc="46244288" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="harvard_shield74x105.png" crc="503687704" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="1649x331.jpg" crc="4246747678" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="graph777x365.jpg" crc="3844775281" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="img_20181101_022853515x647.jpg" crc="140009535" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="harvard_shield62x88.png" crc="264058453" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="capture-crop-u279383.jpg" crc="166092795" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="1567x289.jpg" crc="3948482332" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="graph678x319.jpg" crc="4188974210" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="img_20181101_022853449x564.jpg" crc="4261190786" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="harvard_shield66x95.png" crc="115159798" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="capture-crop-u279384.jpg" crc="3863295216" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="1453x232.jpg" crc="4010450413" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="graph542x255.jpg" crc="56367777" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="img_20181101_022853360x452.jpg" crc="362660785" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="harvard_shield73x105.png" crc="503687704" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="capture-crop-u279385.jpg" crc="265999612" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="1325x166.jpg" crc="80113154" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="graph389x183.jpg" crc="4257227380" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="img_20181101_022853258x324.jpg" crc="3915389286" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="harvard_shield63x90.png" crc="494457321" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="capture-crop-u279386.jpg" crc="4056903582" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="1259x133.jpg" crc="3982861221" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="graph296x139.jpg" crc="458374647" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="img_20181101_022853250x313.jpg" crc="4132188536" seo="true" ref="magnetalk">
+      <caption webpage="magnetalk" alt=""/>
+    </file>
+    <file name="17_b.jpg" crc="73084397" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="download.jpg" crc="454854103" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="2.jpg" crc="214036086" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4147424385" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4245370507" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="p.jpg" crc="151526981" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="eye.jpg" crc="137741398" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="img.jpg" crc="416708849" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="a.jpg" crc="4040860149" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="d.jpg" crc="483996197" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="b.jpg" crc="467592889" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="e.jpg" crc="4224616639" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="c.jpg" crc="353761428" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="f.jpg" crc="65275478" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="download71x67.jpg" crc="44092636" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="2256x212.jpg" crc="3847333710" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="p468x228.jpg" crc="67010268" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="download62x59.jpg" crc="452707643" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="17_b337x215.jpg" crc="12720904" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="download64x61.jpg" crc="526643209" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="17_b265x169.jpg" crc="3880999967" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="p451x220.jpg" crc="408427437" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="download69x66.jpg" crc="3781282804" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="17_b290x185.jpg" crc="3884839785" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="p252x123.jpg" crc="408439951" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="download61x58.jpg" crc="3905458974" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="17_b288x184.jpg" crc="496731441" seo="true" ref="vrct">
+      <caption webpage="vrct" alt=""/>
+    </file>
+    <file name="vlcsnap-2019-01-04-02h57m12s671.jpg" crc="4249878787" seo="true" ref="abb">
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="ar_display.jpg" crc="3942138121" seo="true" ref="abb">
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="ar_manual.jpg" crc="4165624096" seo="true" ref="abb">
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="vlcsnap-2019-01-04-02h57m12s671403x227.jpg" crc="4041321760" seo="true" ref="abb">
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="vlcsnap-2019-01-04-02h57m12s671317x178.jpg" crc="3808111293" seo="true" ref="abb">
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="vlcsnap-2019-01-04-02h57m12s671347x196.jpg" crc="3868855344" seo="true" ref="abb">
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="ar_display290x198.jpg" crc="4225492437" seo="true" ref="abb">
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="ar_manual290x218.jpg" crc="3952418957" seo="true" ref="abb">
+      <caption webpage="abb" alt=""/>
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="vlcsnap-2019-01-04-02h57m12s671345x194.jpg" crc="4203509420" seo="true" ref="abb">
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="ar_display287x195.jpg" crc="72253861" seo="true" ref="abb">
+      <caption webpage="abb" alt=""/>
+    </file>
+    <file name="vlcsnap-2019-01-04-12h38m29s401.jpg" crc="387573327" seo="true" ref="armibl">
+      <caption webpage="armibl" alt=""/>
+      <caption webpage="armibl" alt=""/>
+    </file>
+    <file name="vlcsnap-2019-01-04-12h38m29s401337x253.jpg" crc="509551683" seo="true" ref="armibl">
+      <caption webpage="armibl" alt=""/>
+    </file>
+    <file name="vlcsnap-2019-01-04-12h38m29s401265x199.jpg" crc="202958246" seo="true" ref="armibl">
+      <caption webpage="armibl" alt=""/>
+    </file>
+    <file name="vlcsnap-2019-01-04-12h38m29s401290x218.jpg" crc="3943712089" seo="true" ref="armibl">
+      <caption webpage="armibl" alt=""/>
+    </file>
+    <file name="vlcsnap-2019-01-04-12h38m29s401288x216.jpg" crc="350443147" seo="true" ref="armibl">
+      <caption webpage="armibl" alt=""/>
+    </file>
+    <file name="parking_tickets_map_header.jpg" crc="163474388" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="block_diagram.jpg" crc="4111056051" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="rl.jpg" crc="253574659" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="weather_vio.png" crc="3876737325" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="backtracking (2).gif" crc="4072419710" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="dynamic_o.gif" crc="4061641921" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="gen.gif" crc="315599243" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="cluster_parking.jpg" crc="4122320331" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="parking_tickets_map_header273x200.jpg" crc="258068615" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="block_diagram354x298.jpg" crc="4066468234" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="parking_tickets_map_header226x166.jpg" crc="4094167280" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="block_diagram344x290.jpg" crc="210878030" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="parking_tickets_map_header253x185.jpg" crc="4197704659" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="block_diagram321x271.jpg" crc="14334680" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="parking_tickets_map_header252x185.jpg" crc="207910020" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="block_diagram271x228.jpg" crc="184042388" seo="true" ref="peo_curb">
+      <caption webpage="peo_curb" alt=""/>
+    </file>
+    <file name="mr_icons-2-.jpg" crc="247583614" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="artboard – 1-1-.jpg" crc="4018168419" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="arviiew.jpg" crc="326978501" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="ar_view.jpg" crc="306904686" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="citation.jpg" crc="3881432304" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="mr_icons-2-323x273.jpg" crc="33506203" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="mr_icons-2-237x200.jpg" crc="4113681833" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="mr_icons-2-196x166.jpg" crc="4144131378" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="artboard – 1-1-183x388.jpg" crc="4032616902" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="arviiew184x389.jpg" crc="4138480546" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="mr_icons-2-219x185.jpg" crc="99396891" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="artboard – 1-1-132x278.jpg" crc="3904715127" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="arviiew132x279.jpg" crc="116181442" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="artboard – 1-1-153x325.jpg" crc="425405139" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="arviiew149x317.jpg" crc="201163757" seo="true" ref="mr_parking">
+      <caption webpage="mr_parking" alt=""/>
+    </file>
+    <file name="curblr_map.jpg" crc="4220140474" seo="true" ref="mr_dig_twin">
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+    </file>
+    <file name="area_map.gif" crc="4027662060" seo="true" ref="mr_dig_twin">
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+    </file>
+    <file name="arcore.gif" crc="51551023" seo="true" ref="mr_dig_twin">
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+    </file>
+    <file name="gps.gif" crc="210834991" seo="true" ref="mr_dig_twin">
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+    </file>
+    <file name="signs.jpg" crc="4154490665" seo="true" ref="mr_dig_twin">
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+      <caption webpage="mr_dig_twin" alt=""/>
+    </file>
+    <file name="curblr_map297x200.jpg" crc="3873625918" seo="true" ref="mr_dig_twin">
+      <caption webpage="mr_dig_twin" alt=""/>
+    </file>
+    <file name="curblr_map247x167.jpg" crc="4065426464" seo="true" ref="mr_dig_twin">
+      <caption webpage="mr_dig_twin" alt=""/>
+    </file>
+    <file name="curblr_map271x182.jpg" crc="4112167663" seo="true" ref="mr_dig_twin">
+      <caption webpage="mr_dig_twin" alt=""/>
+    </file>
+    <file name="curblr_map282x190.jpg" crc="4247813315" seo="true" ref="mr_dig_twin">
+      <caption webpage="mr_dig_twin" alt=""/>
+    </file>
+    <file name="traffic_parking_cluster.jpg" crc="470690703" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="rl_blocks.jpg" crc="4102679088" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="mr_street.jpg" crc="70409284" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="rl_blocks427x200.jpg" crc="4040260127" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="mr_street537x196.jpg" crc="4031290599" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="traffic_parking_cluster297x193.jpg" crc="310891828" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="rl_blocks372x175.jpg" crc="219461832" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="mr_street468x171.jpg" crc="207853578" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="traffic_parking_cluster247x160.jpg" crc="4169263786" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="rl_blocks298x140.jpg" crc="529707044" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="mr_street375x137.jpg" crc="4152260898" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="traffic_parking_cluster271x175.jpg" crc="3908031243" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="rl_blocks276x130.jpg" crc="3861635525" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="mr_street277x101.jpg" crc="4198948693" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="traffic_parking_cluster282x183.jpg" crc="4199145844" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="rl_blocks240x113.jpg" crc="407486513" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="mr_street245x89.jpg" crc="4045539129" seo="true" ref="curb_rl">
+      <caption webpage="curb_rl" alt=""/>
+    </file>
+    <file name="graph.png" crc="4288023430" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="block.jpg" crc="324046026" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="real.jpg" crc="3895680575" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="matched.jpg" crc="82219813" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="graph338x290.png" crc="533412471" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="graph267x229.png" crc="4243546007" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="graph207x178.png" crc="348365088" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="block421x258.jpg" crc="232882296" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="graph232x199.png" crc="3931581789" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="block301x185.jpg" crc="4078344428" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="graph236x202.png" crc="489133706" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="block240x147.jpg" crc="426102684" seo="true" ref="map_matching">
+      <caption webpage="map_matching" alt=""/>
+    </file>
+    <file name="viz_urban_rep.gif" crc="4216017545" seo="true" ref="rl_urban">
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+    </file>
+    <file name="rep_graph.jpg" crc="108771813" seo="true" ref="rl_urban">
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+    </file>
+    <file name="rl_urban.jpg" crc="3770057965" seo="true" ref="rl_urban">
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+      <caption webpage="rl_urban" alt=""/>
+    </file>
+    <file name="rep_graph254x135.jpg" crc="4202443402" seo="true" ref="rl_urban">
+      <caption webpage="rl_urban" alt=""/>
+    </file>
+    <file name="rl_urban281x227.jpg" crc="243311099" seo="true" ref="rl_urban">
+      <caption webpage="rl_urban" alt=""/>
+    </file>
+    <file name="rep_graph235x125.jpg" crc="3841651490" seo="true" ref="rl_urban">
+      <caption webpage="rl_urban" alt=""/>
+    </file>
+    <file name="rl_urban240x194.jpg" crc="231527984" seo="true" ref="rl_urban">
+      <caption webpage="rl_urban" alt=""/>
+    </file>
+    <file name="tl_grp.jpg" crc="4012932530" seo="true" ref="tl_urban">
+      <caption webpage="tl_urban" alt=""/>
+      <caption webpage="tl_urban" alt=""/>
+    </file>
+    <file name="tl.jpg" crc="4204789616" seo="true" ref="tl_urban">
+      <caption webpage="tl_urban" alt=""/>
+      <caption webpage="tl_urban" alt=""/>
+      <caption webpage="tl_urban" alt=""/>
+    </file>
+    <file name="tl_grp179x249.jpg" crc="4076213983" seo="true" ref="tl_urban">
+      <caption webpage="tl_urban" alt=""/>
+    </file>
+    <file name="tl_grp173x239.jpg" crc="4252569690" seo="true" ref="tl_urban">
+      <caption webpage="tl_urban" alt=""/>
+    </file>
+    <file name="tl581x287.jpg" crc="263898614" seo="true" ref="tl_urban">
+      <caption webpage="tl_urban" alt=""/>
+    </file>
+    <file name="tl_grp131x182.jpg" crc="4257357380" seo="true" ref="tl_urban">
+      <caption webpage="tl_urban" alt=""/>
+    </file>
+    <file name="tl396x195.jpg" crc="270708057" seo="true" ref="tl_urban">
+      <caption webpage="tl_urban" alt=""/>
+    </file>
+    <file name="tl_grp127x175.jpg" crc="4030358596" seo="true" ref="tl_urban">
+      <caption webpage="tl_urban" alt=""/>
+    </file>
+    <file name="tl244x121.jpg" crc="405558791" seo="true" ref="tl_urban">
+      <caption webpage="tl_urban" alt=""/>
+    </file>
+    <file name="full.jpg" crc="3922790228" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="map.jpg" crc="4261917436" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="replearning.jpg" crc="3949525396" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="full290x211.jpg" crc="3948983826" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="full220x160.jpg" crc="4286459790" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="map358x310.jpg" crc="353197111" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="replearning336x202.jpg" crc="3813109228" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="full258x188.jpg" crc="4085922441" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="map329x284.jpg" crc="4122252131" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="replearning310x186.jpg" crc="464892656" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="full262x191.jpg" crc="360742233" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="map231x199.jpg" crc="4035062805" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="replearning297x178.jpg" crc="228252855" seo="true" ref="bike_rl">
+      <caption webpage="bike_rl" alt=""/>
+    </file>
+    <file name="fed_header.jpg" crc="3968148154" seo="true" ref="fed_learning">
+      <caption webpage="fed_learning" alt=""/>
+      <caption webpage="fed_learning" alt=""/>
+    </file>
+    <file name="fl_archi.jpg" crc="4195637572" seo="true" ref="fed_learning">
+      <caption webpage="fed_learning" alt=""/>
+      <caption webpage="fed_learning" alt=""/>
+      <caption webpage="fed_learning" alt=""/>
+    </file>
+    <file name="fed_header203x237.jpg" crc="4109321453" seo="true" ref="fed_learning">
+      <caption webpage="fed_learning" alt=""/>
+    </file>
+    <file name="fed_header202x235.jpg" crc="22310421" seo="true" ref="fed_learning">
+      <caption webpage="fed_learning" alt=""/>
+    </file>
+    <file name="fl_archi507x301.jpg" crc="94060619" seo="true" ref="fed_learning">
+      <caption webpage="fed_learning" alt=""/>
+    </file>
+    <file name="fed_header153x178.jpg" crc="473245642" seo="true" ref="fed_learning">
+      <caption webpage="fed_learning" alt=""/>
+    </file>
+    <file name="fl_archi363x216.jpg" crc="131865255" seo="true" ref="fed_learning">
+      <caption webpage="fed_learning" alt=""/>
+    </file>
+    <file name="fed_header155x181.jpg" crc="451355784" seo="true" ref="fed_learning">
+      <caption webpage="fed_learning" alt=""/>
+    </file>
+    <file name="fl_archi279x166.jpg" crc="10902509" seo="true" ref="fed_learning">
+      <caption webpage="fed_learning" alt=""/>
+    </file>
+    <file name="env_justice.jpg" crc="4005161236" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig1.jpg" crc="469859334" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig2.jpg" crc="233625716" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig3.jpg" crc="4084771530" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig1236x200.jpg" crc="303301804" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig2236x205.jpg" crc="4111079082" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig1225x190.jpg" crc="3805334603" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig2225x195.jpg" crc="522188300" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig3226x196.jpg" crc="3802302946" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig1233x197.jpg" crc="490729558" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig2240x209.jpg" crc="4004111422" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="fig3232x202.jpg" crc="8952002" seo="true" ref="env_policy">
+      <caption webpage="env_policy" alt=""/>
+    </file>
+    <file name="ensemble.jpg" crc="3956919416" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="fig12.jpg" crc="180185116" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="fig22.jpg" crc="37545228" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="co-attention_reidentification.jpg" crc="414025614" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="ensemble354x249.jpg" crc="4002440544" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="ensemble349x246.jpg" crc="367375119" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="fig2435x213.jpg" crc="116376734" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="ensemble264x186.jpg" crc="419285037" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="fig2312x153.jpg" crc="358144824" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="ensemble261x183.jpg" crc="236609960" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="fig2253x124.jpg" crc="480444841" seo="true" ref="ensemble_alpr">
+      <caption webpage="ensemble_alpr" alt=""/>
+    </file>
+    <file name="met.jpg" crc="218417956" seo="true" ref="metric_alpr">
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+    </file>
+    <file name="mett.jpg" crc="200129007" seo="true" ref="metric_alpr">
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+    </file>
+    <file name="metric_lpr.gif" crc="4149044168" seo="true" ref="metric_alpr">
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+      <caption webpage="metric_alpr" alt=""/>
+    </file>
+    <file name="mett600x206.jpg" crc="347079081" seo="true" ref="metric_alpr">
+      <caption webpage="metric_alpr" alt=""/>
+    </file>
+    <file name="met-crop-u48673.jpg" crc="4073124307" seo="true" ref="metric_alpr">
+      <caption webpage="metric_alpr" alt=""/>
+    </file>
+    <file name="mett430x148.jpg" crc="4072388670" seo="true" ref="metric_alpr">
+      <caption webpage="metric_alpr" alt=""/>
+    </file>
+    <file name="mett266x92.jpg" crc="4017833231" seo="true" ref="metric_alpr">
+      <caption webpage="metric_alpr" alt=""/>
+    </file>
+    <file name="ontolgies.jpg" crc="3916153395" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="search_metrics.jpg" crc="62574746" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="graph2.jpg" crc="278696093" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="ontolgies314x261.jpg" crc="254714057" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="ontolgies297x247.jpg" crc="4252390006" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="search_metrics338x188.jpg" crc="37324713" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="graph253x250.jpg" crc="466626817" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="ontolgies222x185.jpg" crc="4110236633" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="search_metrics242x135.jpg" crc="3759733177" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="graph181x179.jpg" crc="4181493437" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="ontolgies226x188.jpg" crc="4077108328" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="search_metrics207x116.jpg" crc="152721726" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="graph144x142.jpg" crc="4010105623" seo="true" ref="search_alpr">
+      <caption webpage="search_alpr" alt=""/>
+    </file>
+    <file name="privacy_redaction.gif" crc="350451960" seo="true" ref="redaction">
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+    </file>
+    <file name="redaction_pipeline.jpg" crc="3880553735" seo="true" ref="redaction">
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+      <caption webpage="redaction" alt=""/>
+    </file>
+    <file name="redaction_pipeline340x294.jpg" crc="3971977794" seo="true" ref="redaction">
+      <caption webpage="redaction" alt=""/>
+    </file>
+    <file name="redaction_pipeline244x211.jpg" crc="3765010017" seo="true" ref="redaction">
+      <caption webpage="redaction" alt=""/>
+    </file>
+    <file name="redaction_pipeline242x210.jpg" crc="165346710" seo="true" ref="redaction">
+      <caption webpage="redaction" alt=""/>
+    </file>
+    <file name="farmer.jpg" crc="4001297205" seo="true" ref="mitti_data">
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+      <caption webpage="mitti_data" alt=""/>
+    </file>
+    <file name="cluster_geo_spatial.jpg" crc="3979542800" seo="true" ref="rep_agri">
+      <caption webpage="rep_agri" alt=""/>
+      <caption webpage="rep_agri" alt=""/>
+      <caption webpage="rep_agri" alt=""/>
+      <caption webpage="rep_agri" alt=""/>
+    </file>
+    <file name="cluster_geo_spatial189x175.jpg" crc="4145185755" seo="true" ref="rep_agri">
+      <caption webpage="rep_agri" alt=""/>
+    </file>
+    <file name="cluster_geo_spatial216x200.jpg" crc="482135915" seo="true" ref="rep_agri">
+      <caption webpage="rep_agri" alt=""/>
+    </file>
+    <file name="rl2.jpg" crc="4238516410" seo="true" ref="rel_agri">
+      <caption webpage="rel_agri" alt=""/>
+      <caption webpage="rel_agri" alt=""/>
+    </file>
+    <file name="rl_pipeline.jpg" crc="3816944455" seo="true" ref="rel_agri">
+      <caption webpage="rel_agri" alt=""/>
+      <caption webpage="rel_agri" alt=""/>
+      <caption webpage="rel_agri" alt=""/>
+    </file>
+    <file name="rl317x261.jpg" crc="479347206" seo="true" ref="rel_agri">
+      <caption webpage="rel_agri" alt=""/>
+    </file>
+    <file name="rl306x252.jpg" crc="4157087916" seo="true" ref="rel_agri">
+      <caption webpage="rel_agri" alt=""/>
+    </file>
+    <file name="rl_pipeline340x282.jpg" crc="390541265" seo="true" ref="rel_agri">
+      <caption webpage="rel_agri" alt=""/>
+    </file>
+    <file name="rl202x167.jpg" crc="3942464099" seo="true" ref="rel_agri">
+      <caption webpage="rel_agri" alt=""/>
+    </file>
+    <file name="rl_pipeline244x202.jpg" crc="47980191" seo="true" ref="rel_agri">
+      <caption webpage="rel_agri" alt=""/>
+    </file>
+    <file name="rl223x184.jpg" crc="4167676982" seo="true" ref="rel_agri">
+      <caption webpage="rel_agri" alt=""/>
+    </file>
+    <file name="rl_pipeline242x201.jpg" crc="236856658" seo="true" ref="rel_agri">
+      <caption webpage="rel_agri" alt=""/>
+    </file>
+    <file name="tuvis.jpg" crc="324283893" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="word_cloud.jpg" crc="4209003647" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="ai.jpg" crc="200969121" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="tuvis395x202.jpg" crc="4119174893" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="tuvis376x192.jpg" crc="82100897" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="word_cloud340x199.jpg" crc="3992439477" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="ai206x234.jpg" crc="4214214103" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="tuvis313x160.jpg" crc="3902393485" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="word_cloud243x143.jpg" crc="530397881" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="ai199x227.jpg" crc="245137546" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="tuvis284x145.jpg" crc="67199860" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="word_cloud240x141.jpg" crc="3963410727" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+    </file>
+    <file name="ai233x265.jpg" crc="3958479230" seo="true" ref="tuvis">
+      <caption webpage="tuvis" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4021538510" ref="tablet>index"/>
+      <file name="physia.css" crc="4021538510" ref="tablet>physia"/>
+      <file name="pal-food.css" crc="4021538510" ref="tablet>pal-food"/>
+      <file name="armibl.css" crc="4021538510" ref="tablet>armibl"/>
+      <file name="athack.css" crc="4021538510" ref="tablet>athack"/>
+      <file name="ovulation.css" crc="4021538510" ref="tablet>ovulation"/>
+      <file name="new_work.css" crc="4021538510" ref="tablet>new_work"/>
+      <file name="bas.css" crc="4021538510" ref="tablet>bas"/>
+      <file name="sl.css" crc="4021538510" ref="tablet>sl"/>
+      <file name="magnetalk.css" crc="4021538510" ref="tablet>magnetalk"/>
+      <file name="vrct.css" crc="4021538510" ref="tablet>vrct"/>
+      <file name="chirpss.css" crc="4021538510" ref="tablet>chirpss"/>
+      <file name="textile.css" crc="4021538510" ref="tablet>textile"/>
+      <file name="abb.css" crc="4021538510" ref="tablet>abb"/>
+      <file name="tcsjaw.css" crc="4021538510" ref="tablet>tcsjaw"/>
+      <file name="about.css" crc="4021538510" ref="tablet>about"/>
+      <file name="nomq_about.css" crc="3824530138" ref="tablet>about"/>
+      <file name="work.css" crc="4021538510" ref="tablet>work"/>
+      <file name="fpga.css" crc="4021538510" ref="tablet>fpga"/>
+    </folder>
+    <file name="index.html" crc="3810396281" seo="true" mt="1638717525732" redirect="false"/>
+    <file name="work.html" crc="4208629410" seo="true" mt="1638717525926" redirect="false"/>
+    <file name="pal-food.html" crc="332852026" seo="true" mt="1638717525977" redirect="false"/>
+    <file name="ovulation.html" crc="516670536" seo="true" mt="1638717526003" redirect="false"/>
+    <file name="bas.html" crc="288659062" seo="true" mt="1638717526020" redirect="false"/>
+    <file name="magnetalk.html" crc="4004846393" seo="true" mt="1638717526038" redirect="false"/>
+    <file name="vrct.html" crc="140102557" seo="true" mt="1638717526056" redirect="false"/>
+    <file name="chirpss.html" crc="112229681" seo="true" mt="1638717526073" redirect="false"/>
+    <file name="physia.html" crc="326477520" seo="true" mt="1638717526091" redirect="false"/>
+    <file name="abb.html" crc="4280573602" seo="true" mt="1638717526109" redirect="false"/>
+    <file name="tcsjaw.html" crc="324691375" seo="true" mt="1638717526128" redirect="false"/>
+    <file name="fpga.html" crc="4085827446" seo="true" mt="1638717526152" redirect="false"/>
+    <file name="armibl.html" crc="288046408" seo="true" mt="1638717526173" redirect="false"/>
+    <file name="athack.html" crc="251045679" seo="true" mt="1638717526191" redirect="false"/>
+    <file name="textile.html" crc="151672021" seo="true" mt="1638717526211" redirect="false"/>
+    <file name="sl.html" crc="88260476" seo="true" mt="1638717526230" redirect="false"/>
+    <file name="new_work.html" crc="333510232" seo="true" mt="1643221751646" redirect="false"/>
+    <file name="about.html" crc="4264394014" seo="true" mt="1638717526266" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3813036367" seo="true" mt="1643212948039" redirect="true"/>
+  <file name="work.html" crc="4212681820" seo="true" mt="1643305944212" redirect="true"/>
+  <file name="pal-food.html" crc="518987758" seo="true" mt="1641493019632" redirect="true"/>
+  <file name="about.html" crc="3882624781" seo="true" mt="1643305554725" redirect="true"/>
+  <file name="ovulation.html" crc="317273204" seo="true" mt="1641493019632" redirect="true"/>
+  <file name="bas.html" crc="4200614330" seo="true" mt="1641493019632" redirect="true"/>
+  <file name="magnetalk.html" crc="482587923" seo="true" mt="1641493019632" redirect="true"/>
+  <file name="vrct.html" crc="211059840" seo="true" mt="1641493019632" redirect="true"/>
+  <file name="abb.html" crc="248254781" seo="true" mt="1641493019632" redirect="true"/>
+  <file name="armibl.html" crc="4121415945" seo="true" mt="1641493019632" redirect="true"/>
+  <file name="peo_curb.html" crc="290941837" seo="true" mt="1643660516306" redirect="true"/>
+  <file name="mr_parking.html" crc="431801491" seo="true" mt="1643660577914" redirect="true"/>
+  <file name="mr_dig_twin.html" crc="4252496569" seo="true" mt="1643660690700" redirect="true"/>
+  <file name="curb_rl.html" crc="399345629" seo="true" mt="1643660751871" redirect="true"/>
+  <file name="map_matching.html" crc="315406782" seo="true" mt="1643660939120" redirect="true"/>
+  <file name="rl_urban.html" crc="188684531" seo="true" mt="1643660982637" redirect="true"/>
+  <file name="tl_urban.html" crc="22449108" seo="true" mt="1643661003482" redirect="true"/>
+  <file name="bike_rl.html" crc="26982555" seo="true" mt="1643661096630" redirect="true"/>
+  <file name="fed_learning.html" crc="298203452" seo="true" mt="1643653591713" redirect="true"/>
+  <file name="env_policy.html" crc="3892609336" seo="true" mt="1643653729417" redirect="true"/>
+  <file name="ensemble_alpr.html" crc="391176904" seo="true" mt="1643661121951" redirect="true"/>
+  <file name="metric_alpr.html" crc="4282235083" seo="true" mt="1643661140211" redirect="true"/>
+  <file name="search_alpr.html" crc="4002443802" seo="true" mt="1643661163797" redirect="true"/>
+  <file name="redaction.html" crc="524942171" seo="true" mt="1641493019632" redirect="true"/>
+  <file name="mitti_data.html" crc="3878282865" seo="true" mt="1641493019632" redirect="true"/>
+  <file name="rep_agri.html" crc="3861095338" seo="true" mt="1643661196362" redirect="true"/>
+  <file name="rel_agri.html" crc="194789035" seo="true" mt="1643655852129" redirect="true"/>
+  <file name="tuvis.html" crc="362654291" seo="true" mt="1641493019632" redirect="true"/>
+</manifest>
